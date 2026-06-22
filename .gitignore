@@ -1,0 +1,35 @@
+# Données sensibles / volumineuses — NE PAS PUBLIER
+*.jsonl
+*.xlsx
+*.xls
+checkpoint_*.jsonl
+*_checkpoint.jsonl
+
+# Modèles et résultats d'entraînement
+lora_model_*/
+results_*/
+eval_results/
+*.bin
+*.safetensors
+*.pt
+
+# Clés et secrets
+.env
+*.key
+ANTHROPIC_API_KEY
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+wandb/
