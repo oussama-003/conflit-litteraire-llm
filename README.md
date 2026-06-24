@@ -158,8 +158,3 @@ Ce projet est sous licence MIT — voir [`LICENSE`](LICENSE).
 
 Le modèle de base utilisé, `Mistral-7B-Instruct-v0.2`, est soumis à la licence Apache 2.0 de Mistral AI.
 
----
-
-## 🙏 Remerciements
-
-Projet réalisé sous la supervision de **Ph. HERR**, dans le cadre d'un travail de recherche en analyse littéraire computationnelle.
